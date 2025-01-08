@@ -8,7 +8,8 @@
 ---
 ## Demo
 ![Video](https://github.com/user-attachments/assets/a18783e4-89e8-4dc4-bb21-8856ec649cac)
----
+*Demo Video of project* 
+
 ## Features  
 ### 1. Real-Time AI Interactions  
 - Implemented machine learning models for dynamic and responsive AI behaviors.  
